@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Ajay Mangla
 
-🚀 14+ years of experience designing cloud/on-prem analytics architecture to meet complex enterprise needs.
+🚀 15+ years of experience designing cloud/on-prem analytics architecture to meet complex enterprise needs.
 
 #### 💼 Specialties:
 - 🔹 Scalable Data Pipelines (Multi-TB scale, low-latency)
